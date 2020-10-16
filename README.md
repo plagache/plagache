@@ -7,7 +7,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 <br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" />][linux]
