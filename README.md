@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning everything / mostly python nowadays
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
-
 <br />
 
 ### Languages and Tools:
@@ -14,9 +13,6 @@
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" />][linux]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg" />][Vim]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][version]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Gitlab" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />][gitlab]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][stterminal]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
 
