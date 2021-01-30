@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything / mostly python nowadays
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 <br />
-<table width="800px">
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -15,7 +15,6 @@
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
 [<img src="https://img.shields.io/badge/99-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
 [<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>][Python]
-<br />
 [<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
