@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything / mostly python nowadays
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 <br />
-<table width="300px">
+<table width="100%" height="300px">
 <tr>
 <td valign="top" width="50%">
 
