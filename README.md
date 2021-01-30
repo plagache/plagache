@@ -9,14 +9,12 @@
 <br />
 ### Languages and Tools:
 
-[<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>][lua]
-[<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>][rust]
 [<img src="https://img.shields.io/badge/linux-%23f7a41d.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][version]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
-[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
-[<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
+[<img src="https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img src="https://img.shields.io/badge/docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
+[<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
+[<img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&logo=git&logoColor=white"/>][version]
 
 [linux]: https://lubuntu.fr/
 [neovim]: https://neovim.io/
@@ -29,6 +27,8 @@
 [docker]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
 [Typescript]: https://www.typescriptlang.org/
 <!--
+[<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>][rust]
+[<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>][lua]
 **plagache/plagache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
