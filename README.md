@@ -2,10 +2,6 @@
 
 ## I'm a 42 Student and Developer!
 
-
-<table width="100%">
-<tr>
-<td valign="top" width="60%">
 - 🔭 I’m currently working on a drone / secret project
 <br />
 - 🌱 I’m currently learning everything / mostly python nowadays
@@ -14,6 +10,10 @@
 <br />
 
 ### Languages and Tools:
+<table width="100%">
+<tr>
+<td valign="top" width="60%">
+
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
 [<img src="https://img.shields.io/badge/99-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
