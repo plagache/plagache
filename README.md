@@ -2,16 +2,18 @@
 
 ## I'm a 42 Student and Developer!
 
-<table width="100%" height="800px">
+<table width="100%">
 <tr>
 
-<td valign="top" width="60%">
+<td width="60%">
 - 🔭 I’m currently working on a drone / secret project
+<br />
 - 🌱 I’m currently learning everything / mostly python nowadays
+<br />
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 </td>
 
-<td valign="top" width="40%" rowspan=2>
+<td width="40%" rowspan=2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagache&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 
