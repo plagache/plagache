@@ -2,22 +2,13 @@
 
 ## I'm a 42 Student and Developer!
 
-<table width="100%" height=350px>
-<tr>
-
-<td width="55%">
 - 🔭 I’m currently working on a drone / secret project
-<br />
 - 🌱 I’m currently learning everything / mostly python nowadays
-<br />
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
-</td>
-
-<td valign="top" width="45%" height="350px" rowspan=2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagache&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+<br />
+<table width="300px">
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ### Languages and Tools:
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
@@ -28,9 +19,11 @@
 [<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
+
 </td>
+<td valign="top" width="50%">
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagache&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linux]: https://lubuntu.fr/
