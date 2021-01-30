@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 </td>
 
-<td width="40%" rowspan=2>
+<td width="40%" height="300px" rowspan=2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagache&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 
