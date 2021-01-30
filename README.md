@@ -18,7 +18,7 @@
 </td>
 
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="60%">
 
 ### Languages and Tools:
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
