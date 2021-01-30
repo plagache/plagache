@@ -5,6 +5,7 @@
 - I’m currently working on a drone / secret project
 - I’m currently learning Angular and python nowadays
 - Fun fact: I love to play
+<br />
 [<img src="https://img.shields.io/badge/-hack%20the%20box-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />][Hack-the-box]
 
 ### Languages and Tools:
