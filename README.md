@@ -3,16 +3,11 @@
 ## I'm a 42 Student and Developer!
 
 - 🔭 I’m currently working on a drone / secret project
-<br />
 - 🌱 I’m currently learning everything / mostly python nowadays
-<br />
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 <br />
 
 ### Languages and Tools:
-<table width="100%">
-<tr>
-<td valign="top" width="60%">
 
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
@@ -21,13 +16,6 @@
 [<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
-
-</td>
-<td valign="top" width="40%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagache&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-</td>
-
 
 [linux]: https://lubuntu.fr/
 [neovim]: https://neovim.io/
