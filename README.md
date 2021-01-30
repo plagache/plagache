@@ -14,6 +14,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][version]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][C]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
+[<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 
 [linux]: https://lubuntu.fr/
 [Vim]: https://neovim.io/
@@ -24,6 +25,7 @@
 [stterminal]: https://st.suckless.org/
 [C]: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
 [docker]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
+[Typescript]: https://www.typescriptlang.org/
 <!--
 **plagache/plagache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
