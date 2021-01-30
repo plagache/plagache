@@ -13,6 +13,7 @@
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
 [<img src="https://img.shields.io/badge/99-%23000000.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
 [<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>][Python]
+<br />
 [<img src="https://img.shields.io/badge/docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&logo=git&logoColor=white"/>][version]
