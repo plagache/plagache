@@ -9,19 +9,17 @@
 <br />
 ### Languages and Tools:
 
-[<img src="https://img.shields.io/badge/linux-%23f7a41d.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
+[<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
-[<img src="https://img.shields.io/badge/99-%23000000.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img src="https://img.shields.io/badge/99-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
 [<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>][Python]
 <br />
-[<img src="https://img.shields.io/badge/docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
-[<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
-[<img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&logo=git&logoColor=white"/>][version]
+[<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
+[<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
 
 [linux]: https://lubuntu.fr/
 [neovim]: https://neovim.io/
-[version]: https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version
 [github]: https://github.com/
 [gitlab]: https://about.gitlab.com/
 [Tryhackme]: https://tryhackme.com
