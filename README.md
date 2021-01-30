@@ -3,9 +3,9 @@
 ## I'm a 42 Student and Developer!
 
 - I’m currently working on a drone / secret project
-<br />
 - I’m currently learning Angular and python nowadays
-- Fun fact: I love to play [<img src="https://img.shields.io/badge/-hack%20the%20box-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />][Hack-the-box]
+- Fun fact: I love to play
+[<img src="https://img.shields.io/badge/-hack%20the%20box-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />][Hack-the-box]
 
 ### Languages and Tools:
 
