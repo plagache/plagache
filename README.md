@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 
-<td width="60%">
+<td width="55%">
 - 🔭 I’m currently working on a drone / secret project
 <br />
 - 🌱 I’m currently learning everything / mostly python nowadays
@@ -13,12 +13,12 @@
 - ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
 </td>
 
-<td width="40%" height="300px" rowspan=2>
+<td width="45%" height="300px" rowspan=2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plagache&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 
 ### Languages and Tools:
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
