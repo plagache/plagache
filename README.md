@@ -11,10 +11,12 @@
 
 [<img src="https://img.shields.io/badge/linux-%23f7a41d.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
-[<img src="https://img.shields.io/badge/-%23000000.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img src="https://img.shields.io/badge/99-%23000000.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>][Python]
 [<img src="https://img.shields.io/badge/docker-%2300ADD8.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&logo=git&logoColor=white"/>][version]
+[<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
 
 [linux]: https://lubuntu.fr/
 [neovim]: https://neovim.io/
@@ -26,6 +28,8 @@
 [C]: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
 [docker]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
 [Typescript]: https://www.typescriptlang.org/
+[Angular]: https://angular.io/
+[Python]: https://www.python.org/
 <!--
 [<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>][rust]
 [<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>][lua]
