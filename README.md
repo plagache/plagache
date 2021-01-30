@@ -2,10 +2,9 @@
 
 ## I'm a 42 Student and Developer!
 
-- 🔭 I’m currently working on a drone / secret project
-- 🌱 I’m currently learning everything / mostly python nowadays
-- ⚡ Fun fact: I love to play [Tryhackme][Tryhackme]
-<br />
+- I’m currently working on a drone / secret project
+- I’m currently learning Angular and python nowadays
+- Fun fact: I love to play [<img src="https://img.shields.io/badge/-hack%20the%20box-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />][Hack-the-box]
 
 ### Languages and Tools:
 
@@ -21,7 +20,7 @@
 [neovim]: https://neovim.io/
 [github]: https://github.com/
 [gitlab]: https://about.gitlab.com/
-[Tryhackme]: https://tryhackme.com
+[Hack-the-box]: https://www.hackthebox.eu/
 [stterminal]: https://st.suckless.org/
 [C]: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
 [docker]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
