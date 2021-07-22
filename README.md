@@ -18,8 +18,9 @@
 [<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
+<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>[Shell_Script]
 
-[linux]: https://lubuntu.fr/
+[linux]: https://wiki.archlinux.org/title/Installation_guide
 [neovim]: https://neovim.io/
 [github]: https://github.com/
 [gitlab]: https://about.gitlab.com/
@@ -30,6 +31,8 @@
 [Typescript]: https://www.typescriptlang.org/
 [Angular]: https://angular.io/
 [Python]: https://www.python.org/
+[Shell_Script]: https://learnxinyminutes.com/docs/bash/
+
 <!--
 [<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>][rust]
 [<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>][lua]
