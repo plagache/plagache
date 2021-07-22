@@ -6,6 +6,9 @@
 - I’m currently learning Angular and python nowadays
 - Fun fact: I love to play [Hack the box][Hack-the-box]
 
+[![Plagache 42 stats](https://badge42.herokuapp.com/api/stats/plagache?darkmode=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+
+
 ### Languages and Tools:
 
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
