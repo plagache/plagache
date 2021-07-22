@@ -6,7 +6,7 @@
 - I’m currently learning Angular and python nowadays
 - Fun fact: I love to play [Hack the box][Hack-the-box]
 
-[![Plagache 42 stats](https://badge42.herokuapp.com/api/stats/plagache?cursus=42cursus!&darkmode=true&privacyName=true)](https://profile.intra.42.fr/users/plagache)
+[![Plagache 42 stats](https://badge42.herokuapp.com/api/stats/plagache?cursus=42&darkmode=true&privacyName=true)](https://profile.intra.42.fr/users/plagache)
 
 
 ### Languages and Tools:
