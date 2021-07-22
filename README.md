@@ -14,6 +14,7 @@
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
 [<img src="https://img.shields.io/badge/99-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
+[<img src="https://img.shields.io/badge/-9.0-%23239120?style=for-the-badge&logo=csharp"/>][C_Sharp]
 [<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>][Python]
 [<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
 [<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
@@ -27,6 +28,7 @@
 [Hack-the-box]: https://www.hackthebox.eu/
 [stterminal]: https://st.suckless.org/
 [C]: https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c
+[C_Sharp]: https://learnxinyminutes.com/docs/csharp/
 [docker]: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
 [Typescript]: https://www.typescriptlang.org/
 [Angular]: https://angular.io/
