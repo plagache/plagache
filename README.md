@@ -1,6 +1,6 @@
-### Hi there, I'm Pierre 👋
+### Hi there, I'm PLagache 👋
 
-## I'm a 42 Student and Developer!
+## I'm a Student and Developer!
 
 - I’m currently working on a drone / secret project
 - I’m currently learning Angular and python nowadays
