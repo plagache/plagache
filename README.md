@@ -2,9 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- I’m currently working on a drone / secret project
-- I’m currently learning Angular and python nowadays
-- Fun fact: I love to play [Hack the box][Hack-the-box]
+- I’m currently learning Python and Server Architecture nowadays
 
 [![plagache's 42 stats](https://badge42.vercel.app/api/v2/cl3dqvnyc009309k32qzgks2b/stats?cursusId=1&coalitionId=2)](https://github.com/JaeSeoKim/badge42)
 
@@ -13,12 +11,12 @@
 [<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />][linux]
 [<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>][neovim]
 [<img src="https://img.shields.io/badge/99-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/>][C]
-[<img src="https://img.shields.io/badge/-9.0-%23239120?style=for-the-badge&logo=csharp"/>][C_Sharp]
 [<img src="https://img.shields.io/badge/-python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>][Python]
 [<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>][docker]
+[<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][Shell_Script]
 [<img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>][Typescript]
 [<img src="https://img.shields.io/badge/-angular-%23B52E31?style=for-the-badge&logo=angular"/>][Angular]
-[<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>][Shell_Script]
+
 
 [linux]: https://wiki.archlinux.org/title/Installation_guide
 [neovim]: https://neovim.io/
